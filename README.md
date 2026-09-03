@@ -1,20 +1,12 @@
-# \# Introduction to Computers
+\## Types of Computers
 
-# 
+\- \*\*Supercomputer\*\* – Very powerful, used for scientific research
 
-# \## Project Description
+\- \*\*Mainframe Computer\*\* – Used by large organizations for bulk data processing
 
-# This project explains the basics of computers, their types, and history, 
+\- \*\*Minicomputer\*\* – Mid-sized, used by small businesses
 
-# created as a Git \& GitHub practical task.
+\- \*\*Microcomputer (PC)\*\* – Personal computers used at home/office
 
-# 
-
-# \## Introduction
-
-# A computer is an electronic device that takes input, processes it, 
-
-# and gives output. It is used in almost every field of life like 
-
-# education, business, and communication.
+\- \*\*Embedded Computer\*\* – Built inside devices like washing machines, cars
 
